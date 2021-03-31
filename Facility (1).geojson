@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "name": "ST102Facility",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "FAC_ID": "ABBT0040017",
+                "FAC_NAME": "Morgan Provost 3-32",
+                "OP_BA_ID": "A5KY",
+                "OPERATOR": "Tallgrass Energy Corp.",
+                "SUB_CODE": "311",
+                "FAC_SUB_TY": "Crude Oil Single-Well Battery",
+                "LIC_NUMBER": "6427",
+                "LIC_TYPE": "F",
+                "EDCT_TYPE": "320",
+                "EDCT_DESCR": "Oil Single Bty <1t\/d",
+                "LIC_BA_ID": "A5KY",
+                "LICENSEE": "Tallgrass Energy Corp.",
+                "FAC_STATUS": "Abandoned",
+                "LOC_SOURCE": "Facility Licence",
+				"latitude": 52.30533,
+                "longitude": -110.972563,
+                "icon": "accel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.972563, 52.30533]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "FAC_ID": "ABBT0040181",
+                "FAC_NAME": "Lindbergh 2-15-56-6w4",
+                "OP_BA_ID": "0HE9",
+                "OPERATOR": "Canadian Natural Resources Limited",
+                "SUB_CODE": "343",
+                "FAC_SUB_TY": "Crude Bitumen\/Heavy Oil Administrative Grouping",
+                "LIC_NUMBER": "12903",
+                "LIC_TYPE": "F",
+                "EDCT_TYPE": "031",
+                "EDCT_DESCR": "Bitumen Multi Bty <0.01",
+                "LIC_BA_ID": "0HE9",
+                "LICENSEE": "Canadian Natural Resources Limited",
+                "FAC_STATUS": "Suspended",
+                "LOC_SOURCE": "Facility Licence",
+				"latitude": 53.833768,
+                "longitude": -110.807666,
+                "icon": "car"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.807666, 53.833768]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "FAC_ID": "ABBT0040187",
+                "FAC_NAME": "Chauvco Provost 12-24",
+                "OP_BA_ID": "A6N8",
+                "OPERATOR": "Bow River Energy Ltd.",
+                "SUB_CODE": "322",
+                "FAC_SUB_TY": "Crude Oil Multiwell Proration Battery",
+                "LIC_NUMBER": "7709",
+                "LIC_TYPE": "F",
+                "EDCT_TYPE": "321",
+                "EDCT_DESCR": "Oil Multi Bty <1t\/d",
+                "LIC_BA_ID": "A6N8",
+                "LICENSEE": "Bow River Energy Ltd.",
+                "FAC_STATUS": "Suspended",
+                "LOC_SOURCE": "Facility Licence",
+				"latitude": 52.458429,
+                "longitude": -110.314264,
+                "icon": "car"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.314264, 52.458429]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "FAC_ID": "ABBT0040188",
+                "FAC_NAME": "Pci Gilby 04-34",
+                "OP_BA_ID": "A68P",
+                "OPERATOR": "Canlin Resources Partnership",
+                "SUB_CODE": "361",
+                "FAC_SUB_TY": "Gas Multiwell Group Battery",
+                "LIC_NUMBER": "43009",
+                "LIC_TYPE": "F",
+                "EDCT_TYPE": "020",
+                "EDCT_DESCR": "Gas Multi Bty <0.01",
+                "LIC_BA_ID": "A5D4",
+                "LICENSEE": "Cenovus Energy Inc.",
+                "FAC_STATUS": "Active",
+                "LOC_SOURCE": "Facility Licence",
+				"latitude": 52.569281,
+                "longitude": -114.499664,
+                "icon": "car-black"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-114.499664, 52.569281]
+            }
+        }
+    ]
+}
